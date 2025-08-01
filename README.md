@@ -1,2 +1,2 @@
-# portfolio
-Übersicht über Projekte, an denen ich beteiligt war (work in process). 
+# Portfolio
+Übersicht über die Projekte, an denen ich im Laufe der letzten Jahre (mehr oder weniger) beteiligt war (work in process). 
