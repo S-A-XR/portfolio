@@ -1,2 +1,2 @@
 # Portfolio
-Übersicht über die Projekte, an denen ich im Laufe der letzten Jahre (mehr oder weniger) beteiligt war (work in process). 
+Hier befindet sich eine Übersicht über die Projekte und Anwendungen, an denen ich im Laufe der letzten Jahre im Rahmen meiner wissenschaftlichen Arbeit entscheidend (mit-)beteiligt war (work in process). 
